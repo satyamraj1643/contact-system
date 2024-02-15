@@ -1,0 +1,22 @@
+{
+  "name": "feedback_sale",
+  "version": "1.0.0",
+  "description": "A API to cater the needs of your user, who has some feedback for you.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyam Raj",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.31.2",
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.0.3",
+    "pg": "^8.11.3",
+    "uuid": "^9.0.1"
+  }
+}

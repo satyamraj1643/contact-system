@@ -1,0 +1,14 @@
+###
+
+GET http://localhost:5000
+
+###
+
+POST http://localhost:5000
+
+Content-Type: application/json
+
+{
+    "name":"Satyam",
+    "location": "23 Hello World Street"
+}
